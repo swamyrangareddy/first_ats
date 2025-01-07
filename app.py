@@ -2,7 +2,7 @@ import streamlit as st
 import sqlite3
 
 # Importing utility functions and pages
-from data_loader import load_data
+
 from recruiter_page import recruiter_page
 from jobs_page import jobs_page
 from submissions_page import submissions_page
